@@ -8,4 +8,5 @@ pillow
 matplotlib
 seaborn
 folium
+streamlit-folium
 psutil
