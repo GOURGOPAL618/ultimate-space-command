@@ -1,39 +1,11 @@
-streamlit>=1.28.0
-numpy>=1.24.0
-pandas>=2.0.0
-plotly>=5.17.0
-matplotlib>=3.7.0
-scikit-learn>=1.3.0
-tensorflow>=2.13.0
-requests>=2.31.0
-scipy>=1.11.0
-Pillow>=10.0.0
-
-
-
-# CORE FRAMEWORK
 streamlit==1.28.0
-
-# DATA & MATH
-numpy==1.24.0
-pandas==2.0.0
-scipy==1.11.0
-
-# VISUALIZATION
+pandas==2.0.3
+numpy==1.24.3
 plotly==5.17.0
-matplotlib==3.7.0
-
-# MACHINE LEARNING & AI
-tensorflow==2.13.0
-scikit-learn==1.3.0
-
-# WEB & API
+scikit-learn==1.3.2
 requests==2.31.0
-
-# IMAGE PROCESSING
-Pillow==10.0.0
-
-# OPTIONAL BUT USEFUL
-datetime
-json
-warnings
+pillow==10.0.1
+matplotlib==3.7.2
+seaborn==0.12.2
+folium==0.14.0
+psutil==5.9.5
