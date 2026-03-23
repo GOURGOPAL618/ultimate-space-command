@@ -266,7 +266,7 @@ Contributions are welcome! Here's how:
 
 ## 📝 **CHANGELOG**
 
-### Version 6.0 (February 2026)
+### Version 8.0 (February 2026)
 - Added 8 new modules (total 18)
 - Improved UI/UX
 - Enhanced visualizations
