@@ -4,7 +4,7 @@
 
 ### 🌌 *The Most Advanced Space Exploration Platform Ever Created* 🌌
 
-![Version](https://img.shields.io/badge/version-6.0-purple?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-8.0-purple?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.54.0-ff4b4b?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
