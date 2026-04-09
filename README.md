@@ -292,7 +292,7 @@ Contributions are welcome! Here's how:
 - The space science community
 - Open source contributors
 - Coffee ☕ for late-night coding sessions
-
+  
 ---
 
 ## 📞 **SUPPORT**
