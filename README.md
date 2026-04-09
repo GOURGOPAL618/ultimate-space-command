@@ -16,7 +16,7 @@
 **ULTIMATE SPACE COMMAND CENTER** is a groundbreaking 18-in-1 space exploration platform that brings the universe to your fingertips. With real-time data, stunning visualizations, and zero API keys required, this is the most comprehensive space app ever created!
 
 **Created by:** Gouragopal Mohapatra  
-**Version:** 6.0  
+**Version:** 8.0  
 **Release Date:** February 2026  
 **Total Lines of Code:** 4,000+
 
